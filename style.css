@@ -28,7 +28,7 @@ body {
   margin-left: 50px;
   margin-top: 75px;
   margin-bottom: 45px;
-  padding-right: 70px;
+  margin-right: 70px;
 }
 .logo img{
   
@@ -37,9 +37,8 @@ body {
   margin-left: 10px;
   position: absolute;
   top: 70px;
-  
-  
 }
+
 
 
 

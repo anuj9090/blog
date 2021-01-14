@@ -1,0 +1,57 @@
+a {
+  cursor: pointer;
+  transition: 0.5s;
+  font-family: Century gothic;
+  padding: 5px;
+  text-decoration: none;
+  color: hsl(37deg 68% 66% / 89%);
+  font-size: 25px;
+}
+a:hover {
+  background-color: rgb(175, 152, 121);
+  color: beige;
+}
+
+body {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url(pexels-pixabay-259165.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+}
+.navbar {
+  position: fixed;
+  top: 55px;
+  left: 120px;
+}
+.logo img {
+  width: 90px;
+  height: auto;
+  position: fixed;
+  top: 30px;
+}
+h1 {
+  position: relative;
+  top: 95px;
+  text-align: center;
+  font-family: Century gothic;
+  margin-top: 150px;
+  color: rgba(255, 255, 255, 0.712);
+}
+
+ul a {
+  border: solid 1px;
+  border-radius: 5px;
+  position: relative;
+  left: 42%;
+  top: 102px;
+  color: hsl(37deg 68% 66% / 89%);
+  padding: 7px 19px;
+}
+p {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin-top: 340px;
+  padding: 35px;
+}
+
+/*bs bhai  itna thike ab baki bad mein  */
